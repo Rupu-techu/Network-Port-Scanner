@@ -1,5 +1,5 @@
 Network Port Scanner
-🚀 Cybersecurity Internship Project
+(Cybersecurity Internship Project)
 
 <img width="1557" height="900" alt="image" src="https://github.com/user-attachments/assets/362ad1c3-44b9-4097-99e0-2278015ae9fb" />
 
