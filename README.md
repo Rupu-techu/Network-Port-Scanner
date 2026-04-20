@@ -1,9 +1,10 @@
 Network Port Scanner
 (Cybersecurity Internship Project)
+---
 
 <img width="1861" height="966" alt="image" src="https://github.com/user-attachments/assets/c5644439-4bf1-4228-b70b-a58a075c3bbd" />
 
-
+---
 📌 Overview
 
 This project is a multithreaded Network Port Scanner developed using Python with a minimal and user-friendly GUI. It efficiently scans a target system for open ports within a specified range and maps them to common services.
